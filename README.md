@@ -1,2 +1,2 @@
-# Competitve-Coding
-Templates for various standard algorithms.
+# Competitive-Coding
+Templates for Competitbive programming and various standard algorithms.
